@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  Mortagage Calculator           |  -   Helps calculate loan repayments          | https:// github.com/AnneNK/Mortgage-Calculator      |
+| 2 |  -    Caesar's Cipher  Decryption        |  -   Helps Decrypt a message using the right shift          | https:// github.com/AnneNK/Caesar-s-Cipher-Decryption      |
+| 3 |  -   SGD Model vs Random Forest Model          |  -  Checking how the SGD Model performs on the California Housing Data           | https:// github.com/AnneNK/SGD-Model-vs-Random-Forest-Model      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
